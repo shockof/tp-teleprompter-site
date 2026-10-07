@@ -1,0 +1,16 @@
+SITE TP TELEPROMPTER
+
+Abra index.html no navegador para pré-visualizar.
+
+A demonstração do celular usa capturas reais do app e inclui navegação interativa por conexão, biblioteca, roteiros, pastas, anotações do diretor, edição e exclusão de roteiros, leitura automática/manual, velocidade, Play/Pause, Reverse, Stop/Reset, seleção e cores das tags, alinhamento, tamanho de texto, espelhamento e cores de fundo/texto.
+
+O conteúdo exibido dentro do telefone é uma simulação didática no próprio site. Não conecta a Displays reais nem sincroniza dados com o aplicativo instalado.
+
+Antes de publicar:
+- Informe o nome final do app e do desenvolvedor.
+- Adicione o link da App Store e o e-mail de suporte.
+- Revise os campos entre colchetes em privacidade.html e termos.html.
+- Confirme se o backup do sistema/iCloud inclui os dados locais do app.
+- Hospede a pasta inteira em um serviço de site estático. Não envie só index.html: a pasta assets contém as capturas de tela e as páginas legais.
+
+A página usa apenas HTML, CSS e JavaScript locais; não depende de bibliotecas externas.
